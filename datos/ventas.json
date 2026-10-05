@@ -1,0 +1,32 @@
+[
+    {
+        "identificador": "1",
+        "usuario_id": "P001 - Administrador",
+        "producto_codigo": "P001 - COLA",
+        "fecha": "2026-09-24 17:48:38"
+    },
+    {
+        "identificador": "2",
+        "usuario_id": "P001 - Administrador",
+        "producto_codigo": "P002 - Hamburgesa",
+        "fecha": "2026-09-24 17:51:14"
+    },
+    {
+        "identificador": "3",
+        "usuario_id": "P001 - Administrador",
+        "producto_codigo": "P003 - Hot Dog",
+        "fecha": "2026-09-24 18:05:46"
+    },
+    {
+        "identificador": "4",
+        "usuario_id": "P002 - Propetario",
+        "producto_codigo": "P004 - Papas",
+        "fecha": "2026-09-25 13:28:49"
+    },
+    {
+        "identificador": "5",
+        "usuario_id": "P002 - Propetario",
+        "producto_codigo": "P002 - Hamburgesa",
+        "fecha": "2026-10-04 22:08:47"
+    }
+]

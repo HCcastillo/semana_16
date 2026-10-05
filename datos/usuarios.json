@@ -1,0 +1,23 @@
+[
+    {
+        "identificador": "P001",
+        "nombre": "Profesor",
+        "usuario": "profesor",
+        "contrasena": "123456",
+        "rol": "Administrador"
+    },
+    {
+        "identificador": "P002",
+        "nombre": "Administrador",
+        "usuario": "Hugo",
+        "contrasena": "castillo",
+        "rol": "Administrador"
+    },
+    {
+        "identificador": "P003",
+        "nombre": "Empleado",
+        "usuario": "luis",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    }
+]
